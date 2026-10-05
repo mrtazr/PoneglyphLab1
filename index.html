@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Poneglyph Lab – One Piece TCG Tournament Gameplay</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="app">
+    <aside class="sidebar">
+      <div class="sb-top">
+        <a class="brand" id="brandLink" href="./" aria-label="Poneglyph Lab home">
+          <span class="brand-mark">⚓</span>
+          <span class="brand-name">Poneglyph<span>Lab</span></span>
+        </a>
+      </div>
+
+      <div class="sb-scroll">
+        <div class="sb-head">
+          <h1>Gameplay</h1>
+          <span class="sb-count" id="totalCount"></span>
+        </div>
+
+        <input id="searchInput" class="search" type="search" placeholder="Search leaders, events, rounds…" autocomplete="off" aria-label="Search matches">
+
+        <div class="vs-row">
+          <select id="leaderSelect" aria-label="Leader"></select>
+          <span class="vs-mid">vs</span>
+          <select id="opponentSelect" aria-label="Opponent"></select>
+        </div>
+
+        <div class="sb-tools">
+          <label class="toggle">
+            <input type="checkbox" id="spoilerToggle" checked>
+            <span class="track"><span class="thumb"></span></span>
+            <span>Spoiler mode <b id="spoilerState">On</b></span>
+          </label>
+          <button id="surpriseBtn" class="btn accent small">🎲 Surprise me</button>
+        </div>
+        <button id="clearBtn" class="btn small" hidden>Clear filters</button>
+
+        <div id="playlist"></div>
+
+        <p class="sb-note">
+          Poneglyph Lab is an independent fan site, not affiliated with Bandai or Toei Animation.
+          One Piece and One Piece Card Game are trademarks of their respective owners.
+        </p>
+      </div>
+    </aside>
+
+    <main>
+      <div id="homeView">
+        <section class="hero" id="hero" aria-label="Recommended match"></section>
+
+        <div class="sec-head">
+          <h2 class="sec-title">More games to watch</h2>
+          <button id="homeSurprise" class="btn small">🎲 Surprise me</button>
+        </div>
+        <div id="moreGames" class="mg-grid"></div>
+
+        <div id="stats" class="stats"></div>
+      </div>
+
+      <div id="watchView" hidden>
+        <section class="matchup" id="matchup" aria-live="polite">
+          <div class="side" id="side1"></div>
+          <div class="mc" id="matchCenter"></div>
+          <div class="side right" id="side2"></div>
+        </section>
+
+        <section class="stage" id="stage">
+          <div id="player"></div>
+          <div class="placeholder" id="placeholder" hidden></div>
+        </section>
+
+        <section class="controls">
+          <button id="homeBtn" class="btn">⌂ Home</button>
+          <button id="prevBtn" class="btn">← Prev</button>
+          <button id="nextBtn" class="btn">Next →</button>
+          <button id="copyBtn" class="btn">🔗 Copy link</button>
+          <button id="fsBtn" class="btn">⛶ Fullscreen</button>
+        </section>
+      </div>
+
+      <section class="event-bar" aria-label="Events">
+        <div class="eb-title">Start an event from round 1</div>
+        <div id="eventCards" class="eb-cards"></div>
+      </section>
+
+      <section class="leader-bar" aria-label="Leaders">
+        <div class="eb-title">Browse by leader</div>
+        <div id="leaderPicker" class="leader-picker wide" aria-label="Pick a leader"></div>
+      </section>
+    </main>
+  </div>
+
+  <div class="toast" id="toast" role="status"></div>
+  <script src="script.js"></script>
+</body>
+</html>
