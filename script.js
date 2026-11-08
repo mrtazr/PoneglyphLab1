@@ -98,3 +98,1719 @@ const EVENTS_DATA = {
           "end": 14680
         },
         {
+          "id": "f5",
+          "round": "Round 5",
+          "start": 14680,
+          "winner": null,
+          "p1": {
+            "leader": "Yellow-Purple Nico Robin (OP09-062)",
+            "aka": "ロビン ニコ・ロビン 黄紫"
+          },
+          "p2": {
+            "leader": "Green Mihawk (OP14-020)",
+            "aka": "ミホーク 緑"
+          },
+          "end": 16910
+        },
+        {
+          "id": "f6",
+          "round": "Round 6",
+          "start": 16910,
+          "winner": null,
+          "p1": {
+            "leader": "Green Mihawk (OP14-020)",
+            "aka": "ミホーク 緑"
+          },
+          "p2": {
+            "leader": "Purple Kaido (OP17-058)",
+            "aka": "カイドウ 紫"
+          }
+        }
+      ]
+    },
+    {
+      "id": "flame-flame-fruit-coliseum-europe",
+      "country": "EU",
+      "name": "Flame Flame Fruit Coliseum Europe",
+      "videoId": "Sjcixxp08kA",
+      "thumb": THUMB_FLAME,
+      "matches": [
+        {
+          "id": "e1",
+          "round": "Round 1",
+          "start": 830,
+          "winner": null,
+          "p1": {
+            "leader": "Yellow-Purple Nico Robin (OP09-062)",
+            "aka": "ロビン ニコ・ロビン 黄紫"
+          },
+          "p2": {
+            "leader": "Gecko Moria (OP14-080)",
+            "aka": "ゲッコー・モリア モリア Moria Gecko 黒黄"
+          },
+          "end": 3828
+        },
+        {
+          "id": "e2",
+          "round": "Round 2",
+          "start": 3828,
+          "winner": null,
+          "p1": {
+            "leader": "Purple Enel (OP15-058)",
+            "aka": "エネル 紫"
+          },
+          "p2": {
+            "leader": "Red-Black Sabo (OP13-004)",
+            "aka": "サボ 赤黒"
+          },
+          "end": 7333
+        },
+        {
+          "id": "e3",
+          "round": "Round 3",
+          "start": 7333,
+          "winner": null,
+          "p1": {
+            "leader": "Purple Kaido (OP17-058)",
+            "aka": "カイドウ 紫"
+          },
+          "p2": {
+            "leader": "Green Mihawk (OP14-020)",
+            "aka": "ミホーク 緑"
+          },
+          "end": 10602
+        },
+        {
+          "id": "e4",
+          "round": "Round 4",
+          "start": 10602,
+          "winner": null,
+          "p1": {
+            "leader": "Purple Enel (OP15-058)",
+            "aka": "エネル 紫"
+          },
+          "p2": {
+            "leader": "Edward.Newgate (OP17-001)",
+            "aka": "白ひげ ニューゲート ホワイトビアード Whitebeard Newgate 赤"
+          },
+          "end": 13847
+        },
+        {
+          "id": "e5",
+          "round": "Round 5",
+          "start": 13847,
+          "winner": null,
+          "p1": {
+            "leader": "Marshall D. Teach (OP09-081)",
+            "aka": "ティーチ 黒ひげ Blackbeard Teach 黒"
+          },
+          "p2": {
+            "leader": "Green Mihawk (OP14-020)",
+            "aka": "ミホーク 緑"
+          },
+          "end": 18396
+        },
+        {
+          "id": "e6",
+          "round": "Top 32",
+          "start": 18396,
+          "winner": null,
+          "p1": {
+            "leader": "Charlotte Linlin (OP17-099)",
+            "aka": "リンリン ビッグ・マム ビッグマム Big Mom 黄"
+          },
+          "p2": {
+            "leader": "Black Yamato (OP16-079)",
+            "aka": "ヤマト 黒 Yamato"
+          },
+          "end": 21211
+        },
+        {
+          "id": "e7",
+          "round": "Top 16",
+          "start": 21211,
+          "winner": null,
+          "p1": {
+            "leader": "Red-Black Sabo (OP13-004)",
+            "aka": "サボ 赤黒"
+          },
+          "p2": {
+            "leader": "Green Mihawk (OP14-020)",
+            "aka": "ミホーク 緑"
+          },
+          "end": 23964
+        },
+        {
+          "id": "e8",
+          "round": "Top 8",
+          "start": 23964,
+          "winner": null,
+          "p1": {
+            "leader": "Boa Hancock (OP14-041)",
+            "aka": "ハンコック ボア・ハンコック 青黄 Boa"
+          },
+          "p2": {
+            "leader": "Green Mihawk (OP14-020)",
+            "aka": "ミホーク 緑"
+          },
+          "end": 27572
+        },
+        {
+          "id": "e9",
+          "round": "Top 4",
+          "start": 27572,
+          "winner": null,
+          "p1": {
+            "leader": "Red-Black Sabo (OP13-004)",
+            "aka": "サボ 赤黒"
+          },
+          "p2": {
+            "leader": "Yellow-Purple Nico Robin (OP09-062)",
+            "aka": "ロビン ニコ・ロビン 黄紫"
+          },
+          "end": 31312
+        },
+        {
+          "id": "e10",
+          "round": "Block Finals",
+          "start": 31312,
+          "winner": null,
+          "p1": {
+            "leader": "Green Mihawk (OP14-020)",
+            "aka": "ミホーク 緑"
+          },
+          "p2": {
+            "leader": "Red Ace (OP16-001)",
+            "aka": "エース 赤 Ace"
+          },
+          "end": 35416
+        },
+        {
+          "id": "e11",
+          "round": "Semi Finals",
+          "start": 35416,
+          "winner": null,
+          "p1": {
+            "leader": "Red-Black Sabo (OP13-004)",
+            "aka": "サボ 赤黒"
+          },
+          "p2": {
+            "leader": "Purple Enel (OP15-058)",
+            "aka": "エネル 紫"
+          },
+          "end": 40260
+        },
+        {
+          "id": "e12",
+          "round": "Finals",
+          "start": 40260,
+          "winner": null,
+          "p1": {
+            "leader": "Yellow-Purple Nico Robin (OP09-062)",
+            "aka": "ロビン ニコ・ロビン 黄紫"
+          },
+          "p2": {
+            "leader": "Purple Enel (OP15-058)",
+            "aka": "エネル 紫"
+          }
+        }
+      ]
+    },
+    {
+      "id": "flame-flame-fruit-coliseum-na",
+      "country": "NA",
+      "name": "Flame Flame Fruit Coliseum NA",
+      "videoId": "DLUyxqx8jG0",
+      "thumb": THUMB_FLAME,
+      "matches": [
+        {
+          "id": "n1",
+          "round": "Round 1",
+          "start": 1165,
+          "winner": null,
+          "p1": {
+            "leader": "Yellow-Purple Nico Robin (OP09-062)",
+            "aka": "ロビン ニコ・ロビン 黄紫"
+          },
+          "p2": {
+            "leader": "Purple Kaido (OP17-058)",
+            "aka": "カイドウ 紫"
+          },
+          "end": 2405
+        },
+        {
+          "id": "n2",
+          "round": "Round 2",
+          "start": 2405,
+          "winner": null,
+          "p1": {
+            "leader": "Rocks.D.Xebec (OP17-039)",
+            "aka": "ロックス ロックス・D・ジーベック ジーベック Xebec Rocks 青"
+          },
+          "p2": {
+            "leader": "Yellow-Purple Nico Robin (OP09-062)",
+            "aka": "ロビン ニコ・ロビン 黄紫"
+          },
+          "end": 5208
+        },
+        {
+          "id": "n3",
+          "round": "Block Top 8",
+          "start": 5208,
+          "winner": null,
+          "p1": {
+            "leader": "Red-Black Sabo (OP13-004)",
+            "aka": "サボ 赤黒"
+          },
+          "p2": {
+            "leader": "Charlotte Pudding (OP08-058)",
+            "aka": "プリン シャーロット・プリン Pudding 紫黄"
+          },
+          "end": 6441
+        },
+        {
+          "id": "n4",
+          "round": "Block Top 8",
+          "start": 6441,
+          "winner": null,
+          "p1": {
+            "leader": "Red-Black Sabo (OP13-004)",
+            "aka": "サボ 赤黒"
+          },
+          "p2": {
+            "leader": "Purple Enel (OP15-058)",
+            "aka": "エネル 紫"
+          },
+          "end": 7825
+        },
+        {
+          "id": "n5",
+          "round": "Block Top 4",
+          "start": 7825,
+          "winner": null,
+          "p1": {
+            "leader": "Red-Black Sabo (OP13-004)",
+            "aka": "サボ 赤黒"
+          },
+          "p2": {
+            "leader": "Yellow-Purple Nico Robin (OP09-062)",
+            "aka": "ロビン ニコ・ロビン 黄紫"
+          },
+          "end": 10070
+        },
+        {
+          "id": "n6",
+          "round": "Block Finals",
+          "start": 10070,
+          "winner": null,
+          "p1": {
+            "leader": "Rocks.D.Xebec (OP17-039)",
+            "aka": "ロックス ロックス・D・ジーベック ジーベック Xebec Rocks 青"
+          },
+          "p2": {
+            "leader": "Green Mihawk (OP14-020)",
+            "aka": "ミホーク 緑"
+          },
+          "end": 12827
+        },
+        {
+          "id": "n7",
+          "round": "Top 4",
+          "start": 12827,
+          "winner": null,
+          "p1": {
+            "leader": "Yellow-Purple Nico Robin (OP09-062)",
+            "aka": "ロビン ニコ・ロビン 黄紫"
+          },
+          "p2": {
+            "leader": "Yellow-Purple Nico Robin (OP09-062)",
+            "aka": "ロビン ニコ・ロビン 黄紫"
+          },
+          "end": 16920
+        },
+        {
+          "id": "n8",
+          "round": "Grand Finals",
+          "start": 16920,
+          "winner": null,
+          "p1": {
+            "leader": "Yellow-Purple Nico Robin (OP09-062)",
+            "aka": "ロビン ニコ・ロビン 黄紫"
+          },
+          "p2": {
+            "leader": "Yellow-Purple Nico Robin (OP09-062)",
+            "aka": "ロビン ニコ・ロビン 黄紫"
+          }
+        }
+      ]
+    },
+    {
+      "id": "london-regional",
+      "country": "UK",
+      "name": "London Regional",
+      "videoId": "SSANlJWlvzA",
+      "thumb": "https://i.ytimg.com/vi/SSANlJWlvzA/maxresdefault.jpg",
+      "matches": [
+        {
+          "id": "l1",
+          "round": "Round 1",
+          "start": 1175,
+          "winner": null,
+          "p1": {
+            "leader": "Boa Hancock (OP14-041)",
+            "aka": "ハンコック ボア・ハンコック 青黄 Boa"
+          },
+          "p2": {
+            "leader": "Green Mihawk (OP14-020)",
+            "aka": "ミホーク 緑"
+          },
+          "end": 4432
+        },
+        {
+          "id": "l2",
+          "round": "Round 2",
+          "start": 4432,
+          "winner": null,
+          "p1": {
+            "leader": "Edward.Newgate (OP17-001)",
+            "aka": "白ひげ ニューゲート ホワイトビアード Whitebeard Newgate 赤"
+          },
+          "p2": {
+            "leader": "Rocks.D.Xebec (OP17-039)",
+            "aka": "ロックス ロックス・D・ジーベック ジーベック Xebec Rocks 青"
+          },
+          "end": 7366
+        },
+        {
+          "id": "l3",
+          "round": "Round 3",
+          "start": 7366,
+          "winner": null,
+          "p1": {
+            "leader": "Red-Black Sabo (OP13-004)",
+            "aka": "サボ 赤黒"
+          },
+          "p2": {
+            "leader": "Green Mihawk (OP14-020)",
+            "aka": "ミホーク 緑"
+          },
+          "end": 10626
+        },
+        {
+          "id": "l4",
+          "round": "Round 4",
+          "start": 10626,
+          "winner": null,
+          "p1": {
+            "leader": "Yellow-Purple Nico Robin (OP09-062)",
+            "aka": "ロビン ニコ・ロビン 黄紫"
+          },
+          "p2": {
+            "leader": "Rocks.D.Xebec (OP17-039)",
+            "aka": "ロックス ロックス・D・ジーベック ジーベック Xebec Rocks 青"
+          },
+          "end": 13653
+        },
+        {
+          "id": "l5",
+          "round": "Round 5",
+          "start": 13653,
+          "winner": null,
+          "p1": {
+            "leader": "Red-Green Luffy (OP13-001)",
+            "aka": "ルフィ 赤緑 RG Luffy"
+          },
+          "p2": {
+            "leader": "Gecko Moria (OP14-080)",
+            "aka": "ゲッコー・モリア モリア Moria Gecko 黒黄"
+          },
+          "end": 19364
+        },
+        {
+          "id": "l6",
+          "round": "Round 6",
+          "start": 19364,
+          "winner": null,
+          "p1": {
+            "leader": "Black Luffy (OP17-079)",
+            "aka": "ルフィ 黒 Black Luffy"
+          },
+          "p2": {
+            "leader": "Red-Green Luffy (OP13-001)",
+            "aka": "ルフィ 赤緑 RG Luffy"
+          },
+          "end": 22284
+        },
+        {
+          "id": "l7",
+          "round": "Round 7",
+          "start": 22284,
+          "winner": null,
+          "p1": {
+            "leader": "Charlotte Linlin (OP17-099)",
+            "aka": "リンリン ビッグ・マム ビッグマム Big Mom 黄"
+          },
+          "p2": {
+            "leader": "Yellow-Purple Nico Robin (OP09-062)",
+            "aka": "ロビン ニコ・ロビン 黄紫"
+          },
+          "end": 25193
+        },
+        {
+          "id": "l8",
+          "round": "Round 8",
+          "start": 25193,
+          "winner": null,
+          "p1": {
+            "leader": "Rocks.D.Xebec (OP17-039)",
+            "aka": "ロックス ロックス・D・ジーベック ジーベック Xebec Rocks 青"
+          },
+          "p2": {
+            "leader": "Red-Green Luffy (OP13-001)",
+            "aka": "ルフィ 赤緑 RG Luffy"
+          },
+          "end": 28380
+        },
+        {
+          "id": "l9",
+          "round": "Round 9",
+          "start": 28380,
+          "winner": null,
+          "p1": {
+            "leader": "Red Ace (OP16-001)",
+            "aka": "エース 赤 Ace"
+          },
+          "p2": {
+            "leader": "Red-Green Luffy & Ace (ST30-001)",
+            "aka": "エース ルフィ 赤緑 RG Luffy & Ace ルフィ&エース"
+          },
+          "end": 31179
+        },
+        {
+          "id": "l10",
+          "round": "Round 10",
+          "start": 31179,
+          "winner": null,
+          "p1": {
+            "leader": "Rocks.D.Xebec (OP17-039)",
+            "aka": "ロックス ロックス・D・ジーベック ジーベック Xebec Rocks 青"
+          },
+          "p2": {
+            "leader": "Purple Kaido (OP17-058)",
+            "aka": "カイドウ 紫"
+          },
+          "end": 34270
+        },
+        {
+          "id": "l11",
+          "round": "Round 11",
+          "start": 34270,
+          "winner": null,
+          "p1": {
+            "leader": "Red-Green Luffy (OP13-001)",
+            "aka": "ルフィ 赤緑 RG Luffy"
+          },
+          "p2": {
+            "leader": "Purple Enel (OP15-058)",
+            "aka": "エネル 紫"
+          }
+        },
+        {
+          "id": "l12",
+          "round": "Top 32",
+          "start": 857,
+          "winner": null,
+          "p1": {
+            "leader": "Boa Hancock (OP14-041)",
+            "aka": "ハンコック ボア・ハンコック 青黄 Boa"
+          },
+          "p2": {
+            "leader": "Black Yamato (OP16-079)",
+            "aka": "ヤマト 黒 Yamato"
+          },
+          "videoId": "6dT_Fc4v-lI",
+          "end": 5550
+        },
+        {
+          "id": "l13",
+          "round": "Top 16",
+          "start": 5550,
+          "winner": null,
+          "p1": {
+            "leader": "Red-Green Luffy & Ace (ST30-001)",
+            "aka": "エース ルフィ 赤緑 RG Luffy & Ace ルフィ&エース"
+          },
+          "p2": {
+            "leader": "Purple Enel (OP15-058)",
+            "aka": "エネル 紫"
+          },
+          "videoId": "6dT_Fc4v-lI",
+          "end": 11250
+        },
+        {
+          "id": "l14",
+          "round": "Top 8",
+          "start": 11250,
+          "winner": null,
+          "p1": {
+            "leader": "Rocks.D.Xebec (OP17-039)",
+            "aka": "ロックス ロックス・D・ジーベック ジーベック Xebec Rocks 青"
+          },
+          "p2": {
+            "leader": "Yellow-Purple Nico Robin (OP09-062)",
+            "aka": "ロビン ニコ・ロビン 黄紫"
+          },
+          "videoId": "6dT_Fc4v-lI",
+          "end": 17315
+        },
+        {
+          "id": "l15",
+          "round": "Top 4",
+          "start": 17315,
+          "winner": null,
+          "p1": {
+            "leader": "Rocks.D.Xebec (OP17-039)",
+            "aka": "ロックス ロックス・D・ジーベック ジーベック Xebec Rocks 青"
+          },
+          "p2": {
+            "leader": "Green Mihawk (OP14-020)",
+            "aka": "ミホーク 緑"
+          },
+          "videoId": "6dT_Fc4v-lI",
+          "end": 22289
+        },
+        {
+          "id": "l16",
+          "round": "Finals",
+          "start": 22289,
+          "winner": null,
+          "p1": {
+            "leader": "Green Mihawk (OP14-020)",
+            "aka": "ミホーク 緑"
+          },
+          "p2": {
+            "leader": "Purple Enel (OP15-058)",
+            "aka": "エネル 紫"
+          },
+          "videoId": "6dT_Fc4v-lI"
+        }
+      ]
+    },
+    {
+      "id": "bandai-card-games-fest-dallas",
+      "country": "US",
+      "name": "BANDAI CARD GAMES FEST 26-27 feat. ONE PIECE CARD GAME DALLAS",
+      "videoId": "8_qQk40PsKI",
+      "thumb": "https://i.ytimg.com/vi/8_qQk40PsKI/maxresdefault.jpg",
+      "matches": [
+        {
+          "id": "d1",
+          "round": "Round 1",
+          "start": 2125,
+          "winner": null,
+          "p1": {
+            "leader": "Yellow-Purple Nico Robin (OP09-062)",
+            "aka": "ロビン ニコ・ロビン 黄紫"
+          },
+          "p2": {
+            "leader": "Boa Hancock (OP14-041)",
+            "aka": "ハンコック ボア・ハンコック 青黄 Boa"
+          },
+          "end": 4854
+        },
+        {
+          "id": "d2",
+          "round": "Round 2",
+          "start": 4854,
+          "winner": null,
+          "p1": {
+            "leader": "Rocks.D.Xebec (OP17-039)",
+            "aka": "ロックス ロックス・D・ジーベック ジーベック Xebec Rocks 青"
+          },
+          "p2": {
+            "leader": "Charlotte Pudding (OP08-058)",
+            "aka": "プリン シャーロット・プリン Pudding 紫黄"
+          },
+          "end": 8236
+        },
+        {
+          "id": "d3",
+          "round": "Round 3",
+          "start": 8236,
+          "winner": null,
+          "p1": {
+            "leader": "Red-Black Sabo (OP13-004)",
+            "aka": "サボ 赤黒"
+          },
+          "p2": {
+            "leader": "Yellow Enel (OP05-098)",
+            "aka": "エネル 黄"
+          },
+          "end": 10989
+        },
+        {
+          "id": "d4",
+          "round": "Round 4",
+          "start": 10989,
+          "winner": null,
+          "p1": {
+            "leader": "Purple Enel (OP15-058)",
+            "aka": "エネル 紫"
+          },
+          "p2": {
+            "leader": "Green Mihawk (OP14-020)",
+            "aka": "ミホーク 緑"
+          },
+          "end": 14087
+        },
+        {
+          "id": "d5",
+          "round": "Round 5",
+          "start": 14087,
+          "winner": null,
+          "p1": {
+            "leader": "Red-Green Luffy & Ace (ST30-001)",
+            "aka": "エース ルフィ 赤緑 RG Luffy & Ace ルフィ&エース"
+          },
+          "p2": {
+            "leader": "Red-Black Sabo (OP13-004)",
+            "aka": "サボ 赤黒"
+          },
+          "end": 16595
+        },
+        {
+          "id": "d6",
+          "round": "Round 6",
+          "start": 16595,
+          "winner": null,
+          "p1": {
+            "leader": "Yellow-Purple Nico Robin (OP09-062)",
+            "aka": "ロビン ニコ・ロビン 黄紫"
+          },
+          "p2": {
+            "leader": "Edward.Newgate (OP17-001)",
+            "aka": "白ひげ ニューゲート ホワイトビアード Whitebeard Newgate 赤"
+          },
+          "end": 19505
+        },
+        {
+          "id": "d7",
+          "round": "Round 7",
+          "start": 19505,
+          "winner": null,
+          "p1": {
+            "leader": "Black Luffy (OP17-079)",
+            "aka": "ルフィ 黒 Black Luffy"
+          },
+          "p2": {
+            "leader": "Green Mihawk (OP14-020)",
+            "aka": "ミホーク 緑"
+          },
+          "end": 22784
+        },
+        {
+          "id": "d8",
+          "round": "Round 8",
+          "start": 22784,
+          "winner": null,
+          "p1": {
+            "leader": "Yellow-Purple Nico Robin (OP09-062)",
+            "aka": "ロビン ニコ・ロビン 黄紫"
+          },
+          "p2": {
+            "leader": "Green Mihawk (OP14-020)",
+            "aka": "ミホーク 緑"
+          },
+          "end": 25574
+        },
+        {
+          "id": "d9",
+          "round": "Round 9",
+          "start": 25574,
+          "winner": null,
+          "p1": {
+            "leader": "Red-Black Sabo (OP13-004)",
+            "aka": "サボ 赤黒"
+          },
+          "p2": {
+            "leader": "Red-Black Sabo (OP13-004)",
+            "aka": "サボ 赤黒"
+          }
+        },
+        {
+          "id": "d10",
+          "round": "Top 32",
+          "start": 521,
+          "winner": null,
+          "p1": {
+            "leader": "Red-Green Luffy & Ace (ST30-001)",
+            "aka": "エース ルフィ 赤緑 RG Luffy & Ace ルフィ&エース"
+          },
+          "p2": {
+            "leader": "Charlotte Pudding (OP08-058)",
+            "aka": "プリン シャーロット・プリン Pudding 紫黄"
+          },
+          "videoId": "q21V-CbMmdI",
+          "end": 4874
+        },
+        {
+          "id": "d11",
+          "round": "Top 16",
+          "start": 4874,
+          "winner": null,
+          "p1": {
+            "leader": "Rocks.D.Xebec (OP17-039)",
+            "aka": "ロックス ロックス・D・ジーベック ジーベック Xebec Rocks 青"
+          },
+          "p2": {
+            "leader": "Red-Black Sabo (OP13-004)",
+            "aka": "サボ 赤黒"
+          },
+          "videoId": "q21V-CbMmdI",
+          "end": 10287
+        },
+        {
+          "id": "d12",
+          "round": "Top 8",
+          "start": 10287,
+          "winner": null,
+          "p1": {
+            "leader": "Red-Black Sabo (OP13-004)",
+            "aka": "サボ 赤黒"
+          },
+          "p2": {
+            "leader": "Purple Enel (OP15-058)",
+            "aka": "エネル 紫"
+          },
+          "videoId": "q21V-CbMmdI",
+          "end": 14945
+        },
+        {
+          "id": "d13",
+          "round": "Top 4",
+          "start": 14945,
+          "winner": null,
+          "p1": {
+            "leader": "Purple Enel (OP15-058)",
+            "aka": "エネル 紫"
+          },
+          "p2": {
+            "leader": "Purple Enel (OP15-058)",
+            "aka": "エネル 紫"
+          },
+          "videoId": "q21V-CbMmdI",
+          "end": 19813
+        },
+        {
+          "id": "d14",
+          "round": "3rd Place Match",
+          "start": 19813,
+          "winner": null,
+          "p1": {
+            "leader": "Purple Enel (OP15-058)",
+            "aka": "エネル 紫"
+          },
+          "p2": {
+            "leader": "Rocks.D.Xebec (OP17-039)",
+            "aka": "ロックス ロックス・D・ジーベック ジーベック Xebec Rocks 青"
+          },
+          "videoId": "q21V-CbMmdI",
+          "end": 24727
+        },
+        {
+          "id": "d15",
+          "round": "Grand Finals",
+          "start": 24727,
+          "winner": null,
+          "p1": {
+            "leader": "Green Mihawk (OP14-020)",
+            "aka": "ミホーク 緑"
+          },
+          "p2": {
+            "leader": "Purple Enel (OP15-058)",
+            "aka": "エネル 紫"
+          },
+          "videoId": "q21V-CbMmdI"
+        }
+      ]
+    },
+    {
+      "id": "championship-26-27-season-2-3on3-autumn",
+      "country": "JP",
+      "name": "ONE PIECEカードゲーム チャンピオンシップ26-27 Season 2 3on3 Autumn",
+      "videoId": "jYFZ1WSq2vQ",
+      "thumb": "https://i.ytimg.com/vi/jYFZ1WSq2vQ/maxresdefault.jpg",
+      "matches": [
+        {
+          "id": "c1",
+          "round": "Round 1",
+          "start": 1500,
+          "winner": 1,
+          "p1": {
+            "leader": "Purple Kaido (OP17-058)",
+            "aka": "カイドウ 紫"
+          },
+          "p2": {
+            "leader": "Rocks.D.Xebec (OP17-039)",
+            "aka": "ロックス ロックス・D・ジーベック ジーベック Xebec Rocks 青"
+          },
+          "end": 4540
+        },
+        {
+          "id": "c2",
+          "round": "Round 2",
+          "start": 4540,
+          "winner": 1,
+          "p1": {
+            "leader": "Red-Green Luffy (OP13-001)",
+            "aka": "ルフィ 赤緑 RG Luffy"
+          },
+          "p2": {
+            "leader": "Purple Enel (OP15-058)",
+            "aka": "エネル 紫"
+          },
+          "end": 7350
+        },
+        {
+          "id": "c3",
+          "round": "Round 3",
+          "start": 7350,
+          "winner": 1,
+          "p1": {
+            "leader": "Rocks.D.Xebec (OP17-039)",
+            "aka": "ロックス ロックス・D・ジーベック ジーベック Xebec Rocks 青"
+          },
+          "p2": {
+            "leader": "Rocks.D.Xebec (OP17-039)",
+            "aka": "ロックス ロックス・D・ジーベック ジーベック Xebec Rocks 青"
+          },
+          "end": 10185
+        },
+        {
+          "id": "c4",
+          "round": "Round 4",
+          "start": 10185,
+          "winner": 1,
+          "p1": {
+            "leader": "Purple Kaido (OP17-058)",
+            "aka": "カイドウ 紫"
+          },
+          "p2": {
+            "leader": "Red-Black Sabo (OP13-004)",
+            "aka": "サボ 赤黒"
+          }
+        }
+      ]
+    },
+    {
+      "id": "hokkaido-championship",
+      "country": "JP",
+      "name": "Hokkaido Championship",
+      "videoId": "5KY1XejLOXs",
+      "thumb": "https://i.ytimg.com/vi/5KY1XejLOXs/maxresdefault.jpg",
+      "matches": [
+        {
+          "id": "hk1",
+          "start": 1040,
+          "winner": 1,
+          "p1": {
+            "leader": "Charlotte Pudding (OP08-058)",
+            "aka": "プリン シャーロット・プリン Pudding 紫黄"
+          },
+          "p2": {
+            "leader": "Rocks.D.Xebec (OP17-039)",
+            "aka": "ロックス ロックス・D・ジーベック ジーベック Xebec Rocks 青"
+          },
+          "end": 3955
+        },
+        {
+          "id": "hk2",
+          "start": 3955,
+          "winner": 1,
+          "p1": {
+            "leader": "Rocks.D.Xebec (OP17-039)",
+            "aka": "ロックス ロックス・D・ジーベック ジーベック Xebec Rocks 青"
+          },
+          "p2": {
+            "leader": "Charlotte Pudding (OP08-058)",
+            "aka": "プリン シャーロット・プリン Pudding 紫黄"
+          },
+          "end": 6144
+        },
+        {
+          "id": "hk3",
+          "start": 6144,
+          "winner": 2,
+          "p1": {
+            "leader": "Rocks.D.Xebec (OP17-039)",
+            "aka": "ロックス ロックス・D・ジーベック ジーベック Xebec Rocks 青"
+          },
+          "p2": {
+            "leader": "Charlotte Pudding (OP08-058)",
+            "aka": "プリン シャーロット・プリン Pudding 紫黄"
+          }
+        }
+      ]
+    },
+    {
+      "id": "aichi-championship",
+      "country": "JP",
+      "name": "Aichi Championship",
+      "videoId": "z5JRXQ8D5ng",
+      "thumb": "https://i.ytimg.com/vi/z5JRXQ8D5ng/maxresdefault.jpg",
+      "matches": [
+        {
+          "id": "ai1",
+          "start": 1280,
+          "winner": 1,
+          "p1": {
+            "leader": "Green-Yellow Nico Robin (EB05-010)",
+            "aka": "ロビン ニコ・ロビン 緑黄 Robin"
+          },
+          "p2": {
+            "leader": "Blue Buggy (OP09-042)",
+            "aka": "バギー 青 Buggy"
+          },
+          "end": 4050
+        },
+        {
+          "id": "ai2",
+          "start": 4050,
+          "winner": 2,
+          "p1": {
+            "leader": "Red-Green Luffy (OP13-001)",
+            "aka": "ルフィ 赤緑 RG Luffy"
+          },
+          "p2": {
+            "leader": "Marshall D. Teach (OP09-081)",
+            "aka": "ティーチ 黒ひげ Blackbeard Teach 黒"
+          },
+          "end": 6468
+        },
+        {
+          "id": "ai3",
+          "start": 6468,
+          "winner": 2,
+          "p1": {
+            "leader": "Red-Green Luffy (OP13-001)",
+            "aka": "ルフィ 赤緑 RG Luffy"
+          },
+          "p2": {
+            "leader": "Red-Green Luffy (OP13-001)",
+            "aka": "ルフィ 赤緑 RG Luffy"
+          },
+          "end": 9389
+        },
+        {
+          "id": "ai4",
+          "start": 9389,
+          "winner": 1,
+          "p1": {
+            "leader": "Green-Yellow Nico Robin (EB05-010)",
+            "aka": "ロビン ニコ・ロビン 緑黄 Robin"
+          },
+          "p2": {
+            "leader": "Red-Green Luffy (OP13-001)",
+            "aka": "ルフィ 赤緑 RG Luffy"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pomona-regional-day-1",
+      "country": "US",
+      "name": "Pomona Regional Day 1",
+      "videoId": "5amT0Uc-_oQ",
+      "thumb": "https://i.ytimg.com/vi/5amT0Uc-_oQ/maxresdefault.jpg",
+      "matches": [
+        {
+          "id": "po1",
+          "start": 2553,
+          "winner": 1,
+          "p1": {
+            "leader": "Green-Yellow Nico Robin (EB05-010)",
+            "aka": "ロビン ニコ・ロビン 緑黄 Robin"
+          },
+          "p2": {
+            "leader": "Red Law (OP14-001)",
+            "aka": "ロー トラファルガー・ロー 赤 Law Trafalgar"
+          },
+          "end": 5376
+        },
+        {
+          "id": "po2",
+          "start": 5376,
+          "winner": 1,
+          "p1": {
+            "leader": "Yellow-Purple Nico Robin (OP09-062)",
+            "aka": "ロビン ニコ・ロビン 黄紫"
+          },
+          "p2": {
+            "leader": "Purple Kaido (OP17-058)",
+            "aka": "カイドウ 紫"
+          },
+          "end": 8326
+        },
+        {
+          "id": "po3",
+          "start": 8326,
+          "winner": 1,
+          "p1": {
+            "leader": "Yellow Enel (OP05-098)",
+            "aka": "エネル 黄"
+          },
+          "p2": {
+            "leader": "Purple-Yellow Rosinante (OP12-061)",
+            "aka": "ロシナンテ コラソン 紫黄 Rosinante Corazon"
+          },
+          "end": 11065
+        },
+        {
+          "id": "po4",
+          "start": 11065,
+          "winner": 2,
+          "p1": {
+            "leader": "Red Ace (OP16-001)",
+            "aka": "エース 赤 Ace"
+          },
+          "p2": {
+            "leader": "Purple Enel (OP15-058)",
+            "aka": "エネル 紫"
+          },
+          "end": 13972
+        },
+        {
+          "id": "po5",
+          "start": 13972,
+          "winner": 2,
+          "p1": {
+            "leader": "Red-Green Luffy (OP13-001)",
+            "aka": "ルフィ 赤緑 RG Luffy"
+          },
+          "p2": {
+            "leader": "Blue Buggy (OP09-042)",
+            "aka": "バギー 青 Buggy"
+          },
+          "end": 16870
+        },
+        {
+          "id": "po6",
+          "start": 16870,
+          "winner": 2,
+          "p1": {
+            "leader": "Red-Green Luffy (OP13-001)",
+            "aka": "ルフィ 赤緑 RG Luffy"
+          },
+          "p2": {
+            "leader": "Rocks.D.Xebec (OP17-039)",
+            "aka": "ロックス ロックス・D・ジーベック ジーベック Xebec Rocks 青"
+          },
+          "end": 19720
+        },
+        {
+          "id": "po7",
+          "start": 19720,
+          "winner": 1,
+          "p1": {
+            "leader": "Rocks.D.Xebec (OP17-039)",
+            "aka": "ロックス ロックス・D・ジーベック ジーベック Xebec Rocks 青"
+          },
+          "p2": {
+            "leader": "Purple Kaido (OP17-058)",
+            "aka": "カイドウ 紫"
+          },
+          "end": 22478
+        },
+        {
+          "id": "po8",
+          "start": 22478,
+          "winner": 1,
+          "p1": {
+            "leader": "Red-Green Luffy (OP13-001)",
+            "aka": "ルフィ 赤緑 RG Luffy"
+          },
+          "p2": {
+            "leader": "Rocks.D.Xebec (OP17-039)",
+            "aka": "ロックス ロックス・D・ジーベック ジーベック Xebec Rocks 青"
+          },
+          "end": 25245
+        },
+        {
+          "id": "po9",
+          "start": 25245,
+          "winner": 1,
+          "p1": {
+            "leader": "Red-Green Luffy (OP13-001)",
+            "aka": "ルフィ 赤緑 RG Luffy"
+          },
+          "p2": {
+            "leader": "Rocks.D.Xebec (OP17-039)",
+            "aka": "ロックス ロックス・D・ジーベック ジーベック Xebec Rocks 青"
+          },
+          "end": 27890
+        },
+        {
+          "id": "po10",
+          "start": 27890,
+          "winner": 1,
+          "p1": {
+            "leader": "Red-Green Luffy (OP13-001)",
+            "aka": "ルフィ 赤緑 RG Luffy"
+          },
+          "p2": {
+            "leader": "Red-Green Luffy (OP13-001)",
+            "aka": "ルフィ 赤緑 RG Luffy"
+          },
+          "end": 30465
+        },
+        {
+          "id": "po11",
+          "start": 30465,
+          "winner": 1,
+          "p1": {
+            "leader": "Rocks.D.Xebec (OP17-039)",
+            "aka": "ロックス ロックス・D・ジーベック ジーベック Xebec Rocks 青"
+          },
+          "p2": {
+            "leader": "Yellow Enel (OP05-098)",
+            "aka": "エネル 黄"
+          }
+        }
+      ]
+    },
+    {
+      "id": "shumai-tenryu-test",
+      "bar": false,
+      "name": "Shumai Cup / Tenryu Cup (test)",
+      "matches": [
+        {
+          "id": "m1",
+          "videoId": "B_KDZ1yt2R4",
+          "start": 0,
+          "winner": null,
+          "p1": {
+            "leader": "Red-Black Sabo (OP13-004)",
+            "aka": "サボ 赤黒"
+          },
+          "p2": {
+            "leader": "Red-Black Sabo (OP13-004)",
+            "aka": "サボ 赤黒"
+          }
+        },
+        {
+          "id": "m2",
+          "videoId": "UWN9q0vtFz4",
+          "start": 0,
+          "winner": null,
+          "p1": {
+            "leader": "Green Mihawk (OP14-020)",
+            "aka": "ミホーク 緑"
+          },
+          "p2": {
+            "leader": "Red-Black Sabo (OP13-004)",
+            "aka": "サボ 赤黒"
+          }
+        },
+        {
+          "id": "m3",
+          "videoId": "8ayzxaTZiLk",
+          "start": 0,
+          "winner": null,
+          "p1": {
+            "leader": "Red-Black Sabo (OP13-004)",
+            "aka": "サボ 赤黒"
+          },
+          "p2": {
+            "leader": "Yellow Enel (OP05-098)",
+            "aka": "エネル 黄"
+          }
+        }
+      ]
+    }
+  ]
+};
+
+(() => {
+  const $ = (id) => document.getElementById(id);
+  const els = {
+    side1: $("side1"), side2: $("side2"), center: $("matchCenter"),
+    spoiler: $("spoilerToggle"), spoilerState: $("spoilerState"),
+    surprise: $("surpriseBtn"), prev: $("prevBtn"), next: $("nextBtn"),
+    copy: $("copyBtn"), fs: $("fsBtn"), draw: $("drawBtn"), stage: $("stage"), placeholder: $("placeholder"),
+    eventCards: $("eventCards"), playlist: $("playlist"), picker: $("leaderPicker"),
+    search: $("searchInput"), leaderSel: $("leaderSelect"), oppSel: $("opponentSelect"),
+    clear: $("clearBtn"), total: $("totalCount"), toast: $("toast"),
+    homeView: $("homeView"), watchView: $("watchView"), hero: $("hero"), moreGames: $("moreGames"),
+    stats: $("stats"), homeSurprise: $("homeSurprise"), homeBtn: $("homeBtn"), brand: $("brandLink"),
+  };
+
+  const ALL = "";
+  let events = [];
+  let allMatches = [];
+  let evIdx = 0, mIdx = 0;
+  let yt = null, ytReady = false;
+  let view = "home";
+  const playlistOpen = new Set();
+
+  // ---------- helpers ----------
+  const spoilers = () => els.spoiler.checked;
+  const curEvent = () => events[evIdx];
+  const curMatch = () => curEvent().matches[mIdx];
+  function toast(msg) {
+    els.toast.textContent = msg; els.toast.classList.add("show");
+    clearTimeout(toast.t); toast.t = setTimeout(() => els.toast.classList.remove("show"), 1800);
+  }
+  function mk(tag, props = {}, ...kids) {
+    const e = Object.assign(document.createElement(tag), props);
+    kids.forEach((k) => e.append(k));
+    return e;
+  }
+  function splitLeader(l) {
+    const p = l.match(/^(.*?)\s*\((.+)\)$/);
+    return { name: p ? p[1] : l, set: p ? p[2] : "" };
+  }
+  function leaderIcon(l, cls = "pl-ico") {
+    const img = LEADER_IMG[l];
+    return img ? mk("img", { className: cls, src: img, alt: l, title: l }) : mk("span", { className: cls + " empty" });
+  }
+  function focusVideo(always) {
+    const narrow = window.matchMedia && window.matchMedia("(max-width: 900px)").matches;
+    if (always || narrow) els.stage.scrollIntoView({ behavior: "smooth", block: "start" });
+  }
+
+  // ---------- YouTube ----------
+  window.onYouTubeIframeAPIReady = () => { ytReady = true; if (events.length && view === "watch") playCurrent(); };
+  function loadYT() {
+    const s = document.createElement("script");
+    s.src = "https://www.youtube.com/iframe_api";
+    document.head.append(s);
+  }
+  function playCurrent() {
+    const ev = curEvent(), m = curMatch();
+    const vid = m.videoId || ev.videoId;
+    const missing = !vid || vid.startsWith("REPLACE");
+    els.placeholder.hidden = !missing;
+    if (missing) {
+      els.placeholder.replaceChildren(
+        mk("h3", { textContent: "Sample data" }),
+        mk("p", {}, "Add a real YouTube video ID for this event in the EVENTS_DATA list near the top of script.js."),
+        mk("p", { textContent: `Match would start at ${m.start}s.` })
+      );
+      if (yt && yt.pauseVideo) try { yt.pauseVideo(); } catch {}
+      return;
+    }
+    if (!ytReady) return;
+    const opts = { videoId: vid, startSeconds: m.start || 0 };
+    if (m.end) opts.endSeconds = m.end;
+    if (!yt) {
+      yt = new YT.Player("player", {
+        width: "100%", height: "100%",
+        playerVars: Object.assign({ start: m.start || 0, rel: 0, modestbranding: 1, playsinline: 1 }, m.end ? { end: m.end } : {}),
+        videoId: vid,
+        events: { onReady: (e) => e.target.playVideo() },
+      });
+    } else {
+      yt.loadVideoById(opts);
+    }
+  }
+
+  // ---------- search + filters ----------
+  function haystack({ ev, m }) {
+    return [ev.name, m.round, m.p1.name, m.p1.leader, m.p1.deck, m.p1.aka, m.p2.name, m.p2.leader, m.p2.deck, m.p2.aka]
+      .filter(Boolean).join(" ").toLowerCase();
+  }
+  function filterState() {
+    const q = els.search.value.trim().toLowerCase();
+    return { L: els.leaderSel.value, O: els.oppSel.value, tokens: q.split(/\s+/).filter(Boolean) };
+  }
+  const isFiltering = (f) => f.L !== ALL || f.O !== ALL || f.tokens.length > 0;
+  function passes(x, f) {
+    const a = x.m.p1.leader, b = x.m.p2.leader;
+    if (f.L && f.O) { if (!((a === f.L && b === f.O) || (a === f.O && b === f.L))) return false; }
+    else if (f.L) { if (a !== f.L && b !== f.L) return false; }
+    else if (f.O) { if (a !== f.O && b !== f.O) return false; }
+    if (!f.tokens.length) return true;
+    const h = haystack(x);
+    return f.tokens.every((t) => h.includes(t));
+  }
+  function onFilterChange() {
+    const f = filterState();
+    if (isFiltering(f)) allMatches.filter((x) => passes(x, f)).forEach((x) => playlistOpen.add(x.ei));
+    renderPlaylist();
+  }
+  function buildFinder() {
+    allMatches = events.flatMap((ev, ei) => ev.matches.map((m, mi) => ({ ev, m, ei, mi })));
+    const leaders = [...new Set(allMatches.flatMap(({ m }) => [m.p1.leader, m.p2.leader]))].sort((a, b) => a.localeCompare(b));
+    const opts = () => leaders.map((l) => mk("option", { value: l, textContent: l }));
+    els.leaderSel.replaceChildren(mk("option", { value: ALL, textContent: "Any leader" }), ...opts());
+    els.oppSel.replaceChildren(mk("option", { value: ALL, textContent: "Any opponent" }), ...opts());
+    els.picker.replaceChildren(...leaders.map((l) => {
+      const s = splitLeader(l);
+      const img = LEADER_IMG[l];
+      const b = mk("button", { className: "lp", title: l },
+        img ? mk("img", { className: "lp-card", src: img, alt: l }) : mk("span", { className: "lp-card empty", textContent: "No image yet" }),
+        mk("span", { className: "lp-name", textContent: s.name }),
+        mk("span", { className: "lp-set", textContent: s.set || " " }));
+      b.dataset.leader = l;
+      b.addEventListener("click", () => {
+        els.leaderSel.value = els.leaderSel.value === l ? ALL : l; onFilterChange();
+        els.playlist.scrollIntoView({ behavior: "smooth", block: "nearest" });
+      });
+      return b;
+    }));
+  }
+
+  // ---------- sidebar playlist ----------
+  function renderPlaylist() {
+    const f = filterState(), filtering = isFiltering(f);
+    const total = allMatches.length;
+    let shown = 0;
+    const groups = events.map((ev, ei) => {
+      const hits = ev.matches.map((m, mi) => ({ ev, m, ei, mi })).filter((x) => passes(x, f));
+      if (!hits.length) return null;
+      shown += hits.length;
+      const open = playlistOpen.has(ei);
+      const n = ev.matches.length;
+      const countText = filtering && hits.length !== n ? `${hits.length} / ${n}` : `${n} match${n === 1 ? "" : "es"}`;
+      const head = mk("button", { className: "pl-head" },
+        mk("span", { className: "pl-country", textContent: ev.country || "" }),
+        mk("span", { className: "pl-name", textContent: ev.name }),
+        mk("span", { className: "pl-count", textContent: countText }),
+        mk("span", { className: "pl-chev", textContent: "▾" }));
+      head.setAttribute("aria-expanded", String(open));
+      head.addEventListener("click", () => {
+        if (playlistOpen.has(ei)) playlistOpen.delete(ei); else playlistOpen.add(ei);
+        renderPlaylist();
+      });
+      const rows = hits.map(({ m, mi }) => {
+        const a = splitLeader(m.p1.leader), b = splitLeader(m.p2.leader);
+        const cur = view === "watch" && ei === evIdx && mi === mIdx;
+        const crown = (side) => (!spoilers() && m.winner === side ? " \u{1F451}" : "");
+        const row = mk("button", { className: "pl-row" + (cur ? " active" : "") },
+          mk("span", { className: "pl-icons" }, leaderIcon(m.p1.leader), leaderIcon(m.p2.leader)),
+          mk("span", { className: "pl-info" },
+            mk("span", { className: "pl-main", textContent: `${a.name}${crown(1)} vs ${b.name}${crown(2)}` }),
+            mk("span", { className: "pl-sub", textContent: [m.round || `Match ${mi + 1}`, a.set, b.set].filter(Boolean).join(" · ") })),
+          ...(cur ? [mk("span", { className: "pl-now", textContent: "▶ Playing" })] : []));
+        row.addEventListener("click", () => { select(ei, mi); focusVideo(false); });
+        return row;
+      });
+      return mk("div", { className: "pl-group" + (open ? " open" : "") }, head, mk("div", { className: "pl-body" }, ...rows));
+    }).filter(Boolean);
+
+    els.total.textContent = filtering ? `${shown} of ${total} matches` : `${total} match${total === 1 ? "" : "es"}`;
+    els.clear.hidden = !filtering;
+    [...els.picker.children].forEach((b) => b.classList.toggle("active", b.dataset.leader === f.L));
+    els.playlist.replaceChildren(...(groups.length ? groups : [mk("p", { className: "pl-empty", textContent: "No matches found." })]));
+  }
+
+  // ---------- event bar (under the video) ----------
+  function renderEventCards() {
+    els.eventCards.replaceChildren(...events.map((ev, ei) => {
+      if (ev.bar === false) return null;
+      const sub = [ev.year, ev.location].filter(Boolean).join(" · ");
+      const n = ev.matches.length;
+      const b = mk("button", { className: "eb-card" + (view === "watch" && ei === evIdx ? " active" : ""), title: `Start ${ev.name} from round 1` },
+        ...(ev.thumb ? [mk("img", { className: "eb-thumb", src: ev.thumb, alt: "", onerror() { if (this.src.includes("maxresdefault")) this.src = this.src.replace("maxresdefault", "hqdefault"); } })] : []),
+        mk("span", { className: "eb-country", textContent: ev.country || "" }),
+        mk("span", { className: "eb-name", textContent: ev.name }),
+        mk("span", { className: "eb-sub", textContent: sub }),
+        mk("span", { className: "eb-foot" },
+          ...(ev.badge ? [mk("span", { className: "eb-badge", textContent: ev.badge })] : []),
+          mk("span", { className: "eb-count", textContent: `${n} match${n === 1 ? "" : "es"}` })));
+      b.addEventListener("click", () => { select(ei, 0); focusVideo(true); });
+      return b;
+    }).filter(Boolean));
+  }
+
+  // ---------- match bar above the video ----------
+  function renderMatchup() {
+    const ev = curEvent(), m = curMatch();
+    const crown = (n) => (!spoilers() && m.winner === n ? " \u{1F451}" : "");
+    const side = (el, p, n) => {
+      const s = splitLeader(p.leader);
+      const text = mk("div", { className: "tb-text" },
+        mk("div", { className: "name", textContent: s.name + crown(n) }),
+        mk("div", { className: "leader", textContent: [s.set, p.deck].filter(Boolean).join(" · ") }));
+      const icon = leaderIcon(p.leader, "tb-ico");
+      el.className = "side" + (n === 2 ? " right" : "");
+      el.replaceChildren(...(n === 1 ? [icon, text] : [text, icon]));
+    };
+    side(els.side1, m.p1, 1);
+    side(els.side2, m.p2, 2);
+    els.center.replaceChildren(
+      mk("div", { className: "mc-event", textContent: ev.name }),
+      mk("div", { className: "mc-round", textContent: m.round || `Match ${mIdx + 1}` }));
+  }
+  function renderNav() {
+    els.prev.disabled = evIdx === 0 && mIdx === 0;
+    els.next.disabled = evIdx === events.length - 1 && mIdx === curEvent().matches.length - 1;
+  }
+
+  function select(e, m, { play = true, push = true } = {}) {
+    drawOff(false);
+    evIdx = e; mIdx = m;
+    setView("watch");
+    playlistOpen.add(evIdx);
+    renderMatchup(); renderNav(); renderEventCards(); renderPlaylist();
+    if (push) history.replaceState(null, "", `?event=${encodeURIComponent(curEvent().id)}&match=${encodeURIComponent(curMatch().id)}`);
+    if (play) playCurrent();
+  }
+
+  // ---------- landing page ----------
+  const shuffle = (arr) => {
+    const a = arr.slice();
+    for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; }
+    return a;
+  };
+  function heroSide(p, n) {
+    const s = splitLeader(p.leader);
+    const img = LEADER_IMG[p.leader];
+    return mk("div", { className: "hero-side" + (n === 2 ? " right" : "") },
+      img ? mk("img", { className: "hero-card", src: img, alt: p.leader }) : mk("div", { className: "hero-card empty" }),
+      mk("div", { className: "hero-name", textContent: s.name }),
+      mk("div", { className: "hero-set", textContent: s.set }));
+  }
+  function renderHome() {
+    if (!allMatches.length) return;
+    const pool = allMatches.filter((x) => x.ev.bar !== false);
+    const from = pool.length ? pool : allMatches;
+    const rec = from[Math.floor(Math.random() * from.length)];
+    const watch = mk("button", { className: "btn accent hero-btn", textContent: "▶ Watch match" });
+    watch.addEventListener("click", () => select(rec.ei, rec.mi));
+    els.hero.replaceChildren(
+      mk("span", { className: "hero-tag", textContent: "Recommended match" }),
+      mk("span", { className: "hero-meta", textContent: `${rec.ev.name} · ${rec.m.round || `Match ${rec.mi + 1}`}` }),
+      mk("div", { className: "hero-sides" }, heroSide(rec.m.p1, 1), mk("div", { className: "hero-vs", textContent: "VS" }), heroSide(rec.m.p2, 2)),
+      watch);
+
+    const others = shuffle(allMatches.filter((x) => !(x.ei === rec.ei && x.mi === rec.mi))).slice(0, 4);
+    els.moreGames.replaceChildren(...others.map((x) => {
+      const a = splitLeader(x.m.p1.leader), b = splitLeader(x.m.p2.leader);
+      const c = mk("button", { className: "mg-card" },
+        mk("span", { className: "pl-icons" }, leaderIcon(x.m.p1.leader), leaderIcon(x.m.p2.leader)),
+        mk("span", { className: "pl-info" },
+          mk("span", { className: "mg-meta", textContent: `${x.ev.name} · ${x.m.round || `Match ${x.mi + 1}`}` }),
+          mk("span", { className: "pl-main", textContent: `${a.name} vs ${b.name}` }),
+          mk("span", { className: "pl-sub", textContent: [a.set, b.set].filter(Boolean).join(" · ") })));
+      c.addEventListener("click", () => select(x.ei, x.mi));
+      return c;
+    }));
+
+    const counts = new Map();
+    allMatches.forEach(({ m }) => new Set([m.p1.leader, m.p2.leader]).forEach((l) => counts.set(l, (counts.get(l) || 0) + 1)));
+
+    const tile = (num, label) => mk("div", { className: "stat" },
+      mk("div", { className: "stat-num", textContent: String(num) }), mk("div", { className: "stat-label", textContent: label }));
+    els.stats.replaceChildren(tile(allMatches.length, "Matches"), tile(events.length, "Events"), tile(counts.size, "Leaders played"));
+  }
+  function renderCrumbs() {
+    const box = $("crumbs");
+    if (!box) return;
+    const home = mk("button", { type: "button", textContent: "Poneglyph Lab" });
+    home.addEventListener("click", showHome);
+    const sep = () => mk("span", { className: "sep", textContent: "›" });
+    if (view === "watch" && events.length) {
+      const m = curMatch();
+      box.replaceChildren(home, sep(), mk("span", { className: "mid", textContent: curEvent().name }), sep(),
+        mk("span", { className: "cur", textContent: m.round || `Match ${mIdx + 1}` }));
+    } else {
+      box.replaceChildren(home, sep(), mk("span", { className: "cur", textContent: "Overview" }));
+    }
+  }
+  function setView(v) {
+    view = v;
+    els.homeView.hidden = v !== "home";
+    els.watchView.hidden = v !== "watch";
+    renderCrumbs();
+  }
+  function showHome() {
+    drawOff(false);
+    if (yt && yt.pauseVideo) try { yt.pauseVideo(); } catch {}
+    setView("home");
+    history.replaceState(null, "", location.pathname);
+    renderHome(); renderEventCards(); renderPlaylist();
+    if (window.scrollTo) window.scrollTo({ top: 0, behavior: "smooth" });
+  }
+
+  // ---------- actions ----------
+  function step(dir) {
+    let e = evIdx, m = mIdx + dir;
+    if (m < 0) { if (e === 0) return; e--; m = events[e].matches.length - 1; }
+    else if (m >= events[e].matches.length) { if (e === events.length - 1) return; e++; m = 0; }
+    select(e, m);
+  }
+  function surprise() {
+    const all = events.flatMap((ev, i) => ev.matches.map((_, j) => [i, j]));
+    let pick; do { pick = all[Math.floor(Math.random() * all.length)]; } while (all.length > 1 && pick[0] === evIdx && pick[1] === mIdx);
+    select(pick[0], pick[1]);
+  }
+  async function copyLink() {
+    try { await navigator.clipboard.writeText(new URL(location.href).toString()); toast("Link copied"); }
+    catch { toast("Couldn't copy — copy it from the address bar"); }
+  }
+  // ---------- draw tool ----------
+  const dr = { on: false, tool: "arrow", color: "#ff4d4f", strokes: [], cur: null, resume: false };
+  const DRAW_COLORS = ["#ff4d4f", "#ffd43b", "#4dd4ff", "#ffffff"];
+  const cv = mk("canvas", { className: "draw-canvas" });
+  const bar = mk("aside", { className: "draw-bar", hidden: true });
+  const hint = mk("aside", { className: "draw-hint", hidden: true, textContent: "⏸ Video paused while you draw" });
+  els.stage.append(cv, bar, hint);
+  const ctx = cv.getContext("2d");
+  const toolBtns = {}, dotBtns = [];
+  const sep = () => mk("span", { className: "db-sep" });
+  [["pen", "✏️ Pen"], ["arrow", "↗ Arrow"], ["circle", "◯ Circle"]].forEach(([t, label]) => {
+    const b = mk("button", { className: "db", type: "button", textContent: label });
+    b.addEventListener("click", () => { dr.tool = t; syncBar(); });
+    toolBtns[t] = b; bar.append(b);
+  });
+  bar.append(sep());
+  DRAW_COLORS.forEach((c) => {
+    const b = mk("button", { className: "db-dot", type: "button", title: "Color" });
+    b.style.background = c;
+    b.addEventListener("click", () => { dr.color = c; syncBar(); });
+    dotBtns.push([c, b]); bar.append(b);
+  });
+  bar.append(sep());
+  const undoBtn = mk("button", { className: "db", type: "button", textContent: "↶ Undo" });
+  const clearBtn = mk("button", { className: "db", type: "button", textContent: "🗑 Clear" });
+  const doneBtn = mk("button", { className: "db", type: "button", textContent: "✕ Done" });
+  undoBtn.addEventListener("click", drawUndo);
+  clearBtn.addEventListener("click", () => { dr.strokes = []; redraw(); syncBar(); });
+  doneBtn.addEventListener("click", () => drawOff());
+  bar.append(undoBtn, clearBtn, doneBtn);
+
+  function syncBar() {
+    Object.entries(toolBtns).forEach(([t, b]) => b.classList.toggle("on", t === dr.tool));
+    dotBtns.forEach(([c, b]) => b.classList.toggle("on", c === dr.color));
+    undoBtn.disabled = clearBtn.disabled = !dr.strokes.length;
+  }
+  function fit() {
+    const dpr = window.devicePixelRatio || 1, w = cv.clientWidth, h = cv.clientHeight;
+    if (!w || !h) return;
+    if (cv.width !== Math.round(w * dpr) || cv.height !== Math.round(h * dpr)) { cv.width = Math.round(w * dpr); cv.height = Math.round(h * dpr); }
+    ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+    redraw();
+  }
+  function redraw() {
+    ctx.clearRect(0, 0, cv.clientWidth, cv.clientHeight);
+    dr.strokes.forEach(paintStroke);
+    if (dr.cur) paintStroke(dr.cur);
+  }
+  function paintStroke(s) {
+    const w = cv.clientWidth, h = cv.clientHeight, lw = Math.max(3, w * 0.006);
+    ctx.strokeStyle = ctx.fillStyle = s.color; ctx.lineWidth = lw; ctx.lineCap = ctx.lineJoin = "round";
+    const P = s.pts.map(([x, y]) => [x * w, y * h]);
+    if (s.tool === "pen") {
+      ctx.beginPath();
+      P.forEach(([x, y], i) => (i ? ctx.lineTo(x, y) : ctx.moveTo(x, y)));
+      if (P.length === 1) ctx.lineTo(P[0][0] + 0.1, P[0][1]);
+      ctx.stroke();
+    } else if (P.length > 1) {
+      const a = P[0], b = P[P.length - 1];
+      if (s.tool === "circle") {
+        ctx.beginPath();
+        ctx.ellipse((a[0] + b[0]) / 2, (a[1] + b[1]) / 2, Math.abs(b[0] - a[0]) / 2, Math.abs(b[1] - a[1]) / 2, 0, 0, Math.PI * 2);
+        ctx.stroke();
+      } else {
+        const ang = Math.atan2(b[1] - a[1], b[0] - a[0]), hl = lw * 4.5;
+        ctx.beginPath(); ctx.moveTo(a[0], a[1]);
+        ctx.lineTo(b[0] - Math.cos(ang) * hl * 0.6, b[1] - Math.sin(ang) * hl * 0.6); ctx.stroke();
+        ctx.beginPath(); ctx.moveTo(b[0], b[1]);
+        ctx.lineTo(b[0] - hl * Math.cos(ang - 0.45), b[1] - hl * Math.sin(ang - 0.45));
+        ctx.lineTo(b[0] - hl * Math.cos(ang + 0.45), b[1] - hl * Math.sin(ang + 0.45));
+        ctx.closePath(); ctx.fill();
+      }
+    }
+  }
+  const drawPt = (e) => {
+    const r = cv.getBoundingClientRect();
+    return [Math.min(1, Math.max(0, (e.clientX - r.left) / r.width)), Math.min(1, Math.max(0, (e.clientY - r.top) / r.height))];
+  };
+  cv.addEventListener("pointerdown", (e) => {
+    if (!dr.on || e.button > 0) return;
+    e.preventDefault();
+    try { cv.setPointerCapture(e.pointerId); } catch {}
+    dr.cur = { tool: dr.tool, color: dr.color, pts: [drawPt(e)] };
+  });
+  cv.addEventListener("pointermove", (e) => {
+    if (!dr.cur) return;
+    const p = drawPt(e);
+    if (dr.cur.tool === "pen") dr.cur.pts.push(p); else dr.cur.pts[1] = p;
+    redraw();
+  });
+  const endStroke = () => {
+    if (!dr.cur) return;
+    const s = dr.cur; dr.cur = null;
+    const a = s.pts[0], b = s.pts[s.pts.length - 1];
+    const tiny = Math.hypot((b[0] - a[0]) * cv.clientWidth, (b[1] - a[1]) * cv.clientHeight) < 4;
+    if (s.tool === "pen" || !tiny) dr.strokes.push(s);
+    redraw(); syncBar();
+  };
+  cv.addEventListener("pointerup", endStroke);
+  cv.addEventListener("pointercancel", endStroke);
+  function drawUndo() { dr.strokes.pop(); redraw(); syncBar(); }
+  function drawOn() {
+    if (view !== "watch" || dr.on) return;
+    dr.on = true; dr.resume = false;
+    try { dr.resume = !!(yt && yt.getPlayerState && yt.getPlayerState() === 1); if (yt && yt.pauseVideo) yt.pauseVideo(); } catch {}
+    els.stage.classList.add("drawing"); bar.hidden = false; hint.hidden = false; els.draw.classList.add("on");
+    fit(); syncBar();
+  }
+  function drawOff(resume = true) {
+    if (!dr.on) return;
+    dr.on = false; dr.strokes = []; dr.cur = null;
+    els.stage.classList.remove("drawing"); bar.hidden = true; hint.hidden = true; els.draw.classList.remove("on");
+    redraw();
+    if (resume && dr.resume) { try { yt.playVideo(); } catch {} }
+  }
+  if (typeof ResizeObserver !== "undefined") new ResizeObserver(() => { if (dr.on) fit(); }).observe(els.stage);
+  els.draw.addEventListener("click", () => (dr.on ? drawOff() : drawOn()));
+  document.addEventListener("keydown", (e) => {
+    if (!dr.on) return;
+    if (e.key === "Escape") drawOff();
+    else if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === "z") { e.preventDefault(); drawUndo(); }
+  });
+
+  function fullscreen() {
+    if (document.fullscreenElement) document.exitFullscreen();
+    else els.stage.requestFullscreen?.();
+  }
+
+  // ---------- init ----------
+  function init() {
+    events = EVENTS_DATA.events.filter((e) => e.matches.length);
+    if (!events.length) return;
+
+    const q = new URLSearchParams(location.search);
+    const ei = Math.max(0, events.findIndex((e) => e.id === q.get("event")));
+    const mi = Math.max(0, events[ei].matches.findIndex((m) => m.id === q.get("match")));
+    evIdx = ei; mIdx = mi;
+
+    buildFinder();
+    if (q.has("event") && q.has("match")) select(ei, mi, { play: false, push: false });
+    else { renderNav(); showHome(); }
+    loadYT();
+
+    els.spoiler.addEventListener("change", () => { els.spoilerState.textContent = spoilers() ? "On" : "Off"; renderMatchup(); renderPlaylist(); });
+    els.surprise.addEventListener("click", surprise);
+    els.homeSurprise.addEventListener("click", surprise);
+    els.homeBtn.addEventListener("click", showHome);
+    els.brand.addEventListener("click", (e) => { e.preventDefault(); showHome(); });
+    els.search.addEventListener("input", onFilterChange);
+    els.leaderSel.addEventListener("change", onFilterChange);
+    els.oppSel.addEventListener("change", onFilterChange);
+    els.clear.addEventListener("click", () => { els.search.value = ""; els.leaderSel.value = ALL; els.oppSel.value = ALL; onFilterChange(); els.search.focus(); });
+    els.prev.addEventListener("click", () => step(-1));
+    els.next.addEventListener("click", () => step(1));
+    els.copy.addEventListener("click", copyLink);
+    els.fs.addEventListener("click", fullscreen);
+    document.addEventListener("keydown", (e) => {
+      if (e.target.matches("select, input") || view !== "watch") return;
+      if (e.key === "ArrowLeft") step(-1);
+      if (e.key === "ArrowRight") step(1);
+      if (e.key === "f") fullscreen();
+    });
+  }
+  try { init(); } catch (err) { console.error(err); document.querySelector("h1").after(mk("p", { textContent: "Something went wrong loading the data." })); }
+})();
